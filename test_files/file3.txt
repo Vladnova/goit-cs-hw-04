@@ -1,0 +1,8 @@
+This is the third file.
+It has different content from the other files.
+We will look for Python, threading, and some other keywords.
+
+Threading allows for multitasking in Python programs.
+Python's multiprocessing library is great for parallel computing.
+This file doesn't mention the exact keywords as often as the others.
+But it does contain Python and threading.

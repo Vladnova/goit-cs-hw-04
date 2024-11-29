@@ -1,0 +1,8 @@
+This is the second file.
+It also contains some random text.
+We will search for keywords here as well.
+The following are some of the words we will search for: Python, multiprocessing.
+
+Python is not just a programming language, it's a tool for automation.
+Multiprocessing is useful for CPU-bound tasks.
+This file mentions both Python and multiprocessing.

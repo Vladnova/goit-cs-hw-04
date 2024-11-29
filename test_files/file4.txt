@@ -1,0 +1,7 @@
+This is the fourth file.
+It contains even more lines of text.
+We'll try to search for the same keywords: Python, threading, multiprocessing.
+
+Threading can be used to improve performance in IO-bound tasks.
+Multiprocessing is best for CPU-bound tasks.
+Python makes it easy to implement both threading and multiprocessing.

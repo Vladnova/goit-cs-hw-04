@@ -1,0 +1,9 @@
+This is the first file.
+It contains several lines of text.
+We will search for specific keywords in this file.
+The keywords could be things like Python, threading, multiprocessing.
+Let's see if we can find these words.
+
+Python is a popular programming language.
+Threading helps us to do things concurrently.
+Multiprocessing allows tasks to run in parallel processes.
